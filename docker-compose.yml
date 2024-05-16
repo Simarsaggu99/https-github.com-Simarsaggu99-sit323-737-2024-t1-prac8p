@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  myapp:
+    image: simarsaggu99/sit323-737-2024-t1-prac5p:1.1.1
+    ports:
+      - "3000:3000"
+    restart: always
+    healthcheck: 
+      test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3 

@@ -1,0 +1,42 @@
+{"level":"info","message":"server ready to start","service":"calculator-microservice"}
+{"level":"info","message":"server ready to start","service":"calculator-microservice"}
+{"level":"info","message":"server ready to start","service":"calculator-microservice"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"adding 50 and 20","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"dividing 50 by 20","service":"arthmetic operations"}
+{"level":"info","message":"dividing 60 by 20","service":"arthmetic operations"}
+{"level":"info","message":"dividing 60 by 0","service":"arthmetic operations"}
+{"level":"info","message":"dividing 0 by 12","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"dividing 50 by 12","service":"arthmetic operations"}
+{"level":"info","message":"adding 50 and 12","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 10 from 50","service":"arthmetic operations"}
+{"level":"info","message":"multiplying 50 and 10","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"creating {\n  _id: new ObjectId('6645d9e123909347441e357b'),\n  created_at: 2024-05-16T10:03:13.703Z,\n  updated_at: 2024-05-16T10:03:13.703Z,\n  __v: 0\n}","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"CRUD operations"}
+{"level":"info","message":"creating {\n  _id: new ObjectId('6645da808387fb88930b8c09'),\n  created_at: 2024-05-16T10:05:52.235Z,\n  updated_at: 2024-05-16T10:05:52.235Z,\n  __v: 0\n}","service":"CRUD operations"}
+{"level":"info","message":"server ready to start","service":"CRUD operations"}
+{"level":"info","message":"server ready to start","service":"CRUD operations"}
+{"level":"info","message":"creating {\n  _id: new ObjectId('6645db9487ea540274f0c04e'),\n  created_at: 2024-05-16T10:10:28.753Z,\n  updated_at: 2024-05-16T10:10:28.753Z,\n  __v: 0\n}","service":"CRUD operations"}
+{"level":"info","message":"server ready to start","service":"CRUD operations"}
+{"level":"info","message":"creating {\n  _id: new ObjectId('6645dc37213adbc59a600d2b'),\n  created_at: 2024-05-16T10:13:11.717Z,\n  updated_at: 2024-05-16T10:13:11.717Z,\n  __v: 0\n}","service":"CRUD operations"}
+{"level":"info","message":"server ready to start","service":"CRUD operations"}
+{"level":"info","message":"creating {\n  _id: new ObjectId('6645dcf6541114fe94a90001'),\n  created_at: 2024-05-16T10:16:22.157Z,\n  updated_at: 2024-05-16T10:16:22.157Z,\n  __v: 0\n}","service":"CRUD operations"}
+{"level":"info","message":"server ready to start","service":"CRUD operations"}
+{"level":"info","message":"creating {\n  name: 'Simardeep Singh',\n  unit: 'SIT737',\n  course: 'MIT',\n  _id: new ObjectId('6645dd40d2eb4202f6708cc6'),\n  created_at: 2024-05-16T10:17:36.084Z,\n  updated_at: 2024-05-16T10:17:36.084Z,\n  __v: 0\n}","service":"CRUD operations"}
+{"level":"info","message":"creating {\n  name: 'Mitul',\n  unit: 'SIT737',\n  course: 'MIT',\n  _id: new ObjectId('6645ddc0d2eb4202f6708cc8'),\n  created_at: 2024-05-16T10:19:44.167Z,\n  updated_at: 2024-05-16T10:19:44.167Z,\n  __v: 0\n}","service":"CRUD operations"}
+{"level":"info","message":"Finding students","service":"CRUD operations"}

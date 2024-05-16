@@ -1,0 +1,1 @@
+My project is structured with two folders which are routes to access the api endpoints and controllers where the logic is written. Also I have implemented the logger in separate file so that I can access the function using in folders without implementing the same logic again and again.
