@@ -1,19 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mydeployment
+  name: nodejs-deployment
 spec:
   replicas: 3
   selector:
     matchLabels:
-      app: Sit737
+      app: nodejs
   template:
     metadata:
       labels:
-        app: Sit737
+        app: nodejs
     spec:
       containers:
-      - name: your-container-name
-        image: simarsaggu99/sit323-737-2024-t1-prac7p:1.1.1
+      - name: simarsaggu99
+        image: gcr.io/sit737-24t1-simardeep-c8dc608/nodejs-app:v1
         ports:
         - containerPort: 80
